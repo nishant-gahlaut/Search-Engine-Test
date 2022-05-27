@@ -1,0 +1,2225 @@
+Factorial - FCTRL
+Mahasena - AMR15A
+The Lead Game - TLG
+Ciel and A-B Problem - CIELAB
+Holes in the text - HOLES
+Cutting Recipes - RECIPE
+The Tom and Jerry Game! - EOEO
+Cleaning Up - CLEANUP
+Encoded String - DECODEIT
+Double Strings - DOUBLE
+Three Way Communications - COMM3
+Jewels and Stones - STONES
+Compilers and parsers - COMPILER
+Smallest KMP - SKMP
+Space Arrays - SPACEARR
+Tic Tac Toe - TCTCTOE
+Strange Number - STRNO
+Dilemma - CHEFDIL
+Positive Prefixes - POSPREFS
+Round Robin Ranks  - RRR
+Chef and Semi-Primes - CHEFPRMS
+Magician versus Chef - MAGICHF
+A Big Sale - BIGSALE
+Positive AND - POSAND
+Palindromes Not Allowed - NOPAL
+Count of Maximum - MAXCOUNT
+Special Triplets - SPCTRIPS
+Chefina and Swaps - CHFNSWPS
+Dazzling AXNODR Challenge  - AXNODR
+Magic Pairs - ALEXNUMB
+Easy Fibonacci - FIBEASY
+Byte to Bit - BITOBYT
+Mix the Colors - MIXCOLOR
+Multiple of 3 - MULTHREE
+Cooling Pies - COOLING
+Modular Equation - MODEQ
+Chef and The Right Triangles - RIGHTRI
+Team Name - TEAMNAME
+MEX-OR - MEXOR
+Distinct Pairs - DPAIRS
+Minimum Good Permutation - MINPERM
+Snakes, Mongooses and the Ultimate Election - SNELECT
+Chef and Magical Jars - MAGICJAR
+Good Joke! - RRJOKE
+Shortest Path in Binary Trees - BINTREE
+Prime Palindromes - PRPALIN
+Important Pages on CodeChef - CHEFPAGES
+Zombie and the Caves - ZOMCAV
+Replace for X - REPLESX
+Gcd Queries - GCDQ
+Squared Subsequences - SQRDSUB
+Ups and Downs - ANUUND
+Chefina and Swap - CHFNSWAP
+Chef and Party - CHFPARTY
+One Zero Swaps - SWAP10HG
+Worthy Matrix - KAVGMAT
+K-Concatenation - KCON
+Valleys and Hills - VANDH
+Chef and Interesting Subsequences  - CHEFINSQ
+Number Game Revisited - NUMGAME2
+Substring of a Substring - SUBSTRING
+Chef and Friends - FRK
+Optimal Denomination - MINNOTES
+Faded Palindromes - LEXOPAL
+Iron, Magnet and Wall - FEMA2
+Watching CPL - WIPL
+Maximize the Minimum - MAXTHEMIN
+Stone - RRSTONE
+Fake GCD - FAKEGCD
+Hill Sequence - HILLSEQ
+Magic Elements - ZOZ
+Xor Again - XORAGN
+Dibs on Fibs - DBFB
+College Life 4 - COLGLF4
+Polygon Relationship - POLYREL
+Spread the Word - SPREAD2
+Suraj goes shopping - ANUBTG
+Coprime Range - COPRIMEX
+Anti Palindrome - ANTI_PAL
+Snake Eating - SNAKEEAT
+Chef and Card Trick - CARDMGK
+Chef and Maximum Star Value - MSV
+Doraemon - CHFDORA
+Building Towers - TOWERTOP
+Chef and Equality - CHEFEQ
+Fit to Play - PLAYFIT
+Perfect Permutation - PERFPERM
+Different String - DIFSTR
+OR-thodox Distinction - ORTHODOX
+Lucky Long - LUCKY5
+Array Filling - ARRFILL
+Chef and Digit Jumps - DIGJUMP
+From Rational to Binary - REALBIN
+Increasing Decreasing - INCRDEC
+N different palindromes - NDIFFPAL
+Prefix Zeros - PREZ
+Chef and Water Car - CHEFCAR
+Check Algorithm - CHEALG
+No Change Required - NOCHANGE
+Decreasing Srrnmieeda - DECREM
+Chang and Bitwise OR - CHNGOR
+Divisors and Reciprocals - DIVREC
+Chef vs Bharat - CHEFORA
+Equal LIS - EQLIS
+Lucky lucky number - CHEFLUCK
+Lowest Sum - LOWSUM
+Open the Dragon Scroll - DRAGNXOR
+Birthday Candles - CANDLE
+Maximum Candies - CHECHOC
+Chef and Reversing - REVERSE
+Chef and calculation - RESCALC
+The Rumbling - RUMBLING
+XOR and AND - XORAND
+Pairwise Xors - XORABC
+Palpal Strings - PALPALS
+Art of Balance - ARTBALAN
+Hotel Bytelandia - HOTEL
+Game on a Strip - ARRGAME
+Guddu and his Mother - KS1
+Crossing Blocks - CROSBLK
+Magical Girl and Colored Liquid Potions - PRPOTION
+Decomposition Reaction - DCP
+Chef and String - CHRL2
+Dish Owner - DISHOWN
+The Leaking Robot - CRAWA
+Mod Equality - MODEQUAL
+Zack And The Handkerchieves - ZACKHAN
+Chef and the Feast - NEO01
+Mighty Friend - MTYFRI
+IPC Trainers - IPCTRAIN
+String Reverse - STR_REVERSE
+Problem Sort - PROBLEMS
+Minimum Coloring - MINCOLOR
+Bon Appetit - FGFS
+Little Elephant and Strings - LUCKYSTR
+Racing - RACINGEN
+Forest Gathering - FORESTGA
+Calculator  - CALC
+Lunchtime - LUNCHTIM
+Product Pain - PRDTPAIN
+Fixed Weight - FIXWEIGHT
+DevuLand, Dinosaurs and Laddus - PRLADDU
+Chef Restaurant  - CHEFRES
+A temple of Snakes - SNTEMPLE
+Matrix XOR - MATXOR
+Survive in ChocoLand - SURVIVE
+Chef And Binary Operation - BINOP
+Merged LIS - MERGEDLIS
+Top Batsmen - BESTBATS
+Minimum Dual Area - DAREA
+Power Sum - POWSUM
+Is It a Snake - ISSNAKE
+Equality - ISBIAS
+Cakewalk - CKWLK
+Chain of Doughnuts - DONUTS
+Chef and Modulo Game - MGAME
+War of XORs - XORIER
+Subarray XOR - SUB_XOR
+Binary Inversion - BININV
+PerMEXuation  - PERMEX
+ChefWM - CHEFWM
+Maximum Size - RISK
+Palindromic Game - PALINGAM
+Galactik Football - GALACTIK
+Weight of Numbers - WGHTNUM
+Spoon in Matrix - SPOON
+Magnet Sort - MAGNETSORT
+Graph on an Array - ARRGRAPH
+Chef and Digits - ADIGIT
+Even Edges - EVEDG
+Maximise the bridges - MAXBRIDGE
+Little Elephant and Subarrays - SUBMIN
+Chef And The Hiring Event - CHEARMY
+Little Elephant and Music - LEMUSIC
+Bitwise Blend - BITBLEND
+Waiting in Queue - QUEUE2
+Partition the numbers - PRTITION
+Broken Life - BRKNLIFE
+Long Contest and Cook Off Overlaps - LONGCOOK
+Chef Goes to the Cinema - CO92SUBW
+Binary String on Steroids - BNSONSTR
+Binary XOR - BINXOR
+Add and Divide - ADDNDIV
+Positive Spewing - POSSPEW
+Superpowers of 2 - SPOTWO
+Parity Again - PRTAGN
+Average Sorting - AVGSORT
+Chef and Patients - CHEFPAT
+Mysterious Sequence - MYSARA
+Chef and Red Black Tree - RBTREE
+Remy paints the fence - FATCHEF
+Cheating Time - CTIME
+Make Him Happy - TWODOGS
+Root the Tree - ROOTTREE
+Chef and Prime Divisors - CHAPD
+Path-etic Sums - PATHSUMS
+Permutation XOR Sum - PERMXORSUM
+Funny Marbles - MARBLEGF
+Way Out - WOUT
+Help Nishant - HLPNISHANT
+Appy and Balloons  - HMAPPY
+Chef, Chefina and Their Friendship - CHEFSHIP
+Chef and Strange Formula - STFM
+Same Parity Swaps in Binary Strings - MAX01EVSWP
+Consecutive Deletions - CONDEL
+Server Trouble - SVRT
+Same Snake - SAMESNAK
+Addition - BINADD
+Set Difference  - SETDIFF
+Chef and Numbers - CHEFFED
+K Distinct Array - DISTK
+Predictopus - PREDICT
+Dreams of Divisibility - DREDIV
+Popular Rice Recipe - TIDRICE
+Mahesh and his lost array - ANUMLA
+String Merging - STRMRG
+Rectangle - ISREC
+Convert the String - CONVSTR
+Non Coprime Neighbours - NCOPRIMEN
+Aujasvit and the Circle Game - CIRCLEGAME
+Non Zero Subarray Xor - SUBARRAYXOR
+Gold Mining - GOLMINE
+Binary Shuffle - BINSHFFL
+Polo the Penguin and the Test - PPTEST
+Spam Classification Using Neural Net - SPAMCLAS
+Binary Mismatch - BINMIS
+Rock Paper Scissors - ROPASCI
+Bhallaladeva - AMR15D
+Clear the Array - CLEARARR
+Buddy NIM - BUDDYNIM
+Garden Game - SGARDEN
+Chef and Queries - CHEFQUER
+Equality - EQUALITY
+Optimal Sorting - OPTSORT
+The Morning Commute - COMMUTE
+Churu and Balls - CBALLS
+Rupsa and Equilateral Triangle - ADTRI
+Array Transform - ARRAYTRM
+Real obtuse - OBTTRNGL
+Count Permutations - CPERM
+Playing with Numbers - SJ1
+Chef Likes Good Sequences - GSUB
+Daily Train - DAILY
+Retrieve back the Array - XORED
+Good Permutation - GDPERM
+Chef and Girlfriend - GERALD04
+Correctness of Knight Move - KNIGHTMV
+Tojo hates probabilities - ANUTHM
+Zenny and Simple Sum - SIPM
+Chef and Magical Steps - CHEFMGX
+Chef and a great voluntary Program - CHEFGP
+Yet Again a Subarray Problem - SUBPRNJL
+Per Capita Income - PERCAPTA
+Equal After And - ANDEQ
+Rapid Re-Orderings - RPDRDNG
+Chef and Friends - CHFNFRN
+Chef and Array and K - CHEFARK
+Chef and Segments - CHMOD
+Right Triangle - RIGHTTRI
+Gravel - SPREAD
+Spheres - KSPHERES
+Bear and Clique Distances - CLIQUED
+Kingdom Unity - KINGCON
+Appy Loves One - HMAPPY1
+Colored Array - COLARR
+String Game - STRADJ
+Chef and Pairwise Distances - PAIRDIST
+Highway Crossing - HIGHWAYC
+Nikhil and Commands - CLCO01
+Summary Power - SUMPOWER
+Statistics Construction - LIKECS02
+Beautiful Array - BTAR
+Rectangular Queries - RECTQUER
+Magical Flips - CRDFLP
+Book Exercises - BEX
+Counting Flags - FLAGS
+Planting Trees - DEADEND
+Fenwick Iterations - FENWITER
+The One with Ross Wedding - S04E23
+Chef and sequence - UASEQ
+K Path Query - KPATHQRY
+Chef and Square - CHEFSQUA
+K-good Words - KGOOD
+Bear and House Queries - QHOUSE
+Minimise the Size - MINSZ
+Cool Guys - COOLGUYS
+Chef Restores a Matrix - CO92MATR
+Strange Minimization - STRGMNZ
+Yet Another Cute Girl - PRETNUM
+Binary Tournament - BINTOUR
+Word Couting - WCOUNT
+Travelling in the Graph - TRAVELLING
+Long Long Sum - BC106
+Positive Mex - MEXUM
+End Of The World - CHEFHACK
+Chef and Strange Operations - STROPR
+D-Or - DOR
+Doof fires Brackets - CLBRKT
+Pairing Chefs - PAIRING
+Maximum Unique Segment - MAXSEGM
+XOR Game - XORGM
+Circle of Chaos - CIRCHAOS
+Xor Equation - XOREQN
+SnackUp - SNACKUP
+Devu and binary String - DEVSTR
+Arranging the Appetizers - ARRANGE
+Tricky Remainder - MOTU001
+Minimum Subtree Cover - SUBTRCOV
+Remember the recipe - TWSTR
+Bank robbery - BANROB
+Am I a Fibonacci Number - AMIFIB
+Maximizing LIS - MLIS
+Under the Tunnels - POPTUNNL
+Chef and Strange Matrix - CHEFBM
+Home Delivery - HDELIVER
+Binary Concatenation  - BINFUN
+Three Integers - AFK
+Safe Robot - ROBOTG
+Winter - ELWINTER
+Alok-nath and His Sanskars - SANSKAR
+XOR N-bonacci Sequence - NBONACCI
+Consecutive Snakes - CONSESNK
+Remainder - REMAIN
+Steady tables - STDYTAB
+Prefix Inversions - PREFINVS
+No Minimum No Maximum - NMNMX
+Chef and Big Soccer - CHEFSOC2
+My Fair Coins - CSUMD
+Chef and Two Queens - CHQUEENS
+Internet Media Types - MIME2
+Subanagrams - SUBANAGR
+Little Elephant and Order - LUCKY10
+Reign - REIGN
+The hardest gcd problem - GCDDIV
+Training Plans - TRAINPLN
+Restaurant Rating - RRATING
+Opposite Cites - OPPOSITE
+Alien Invasion  - ALIENIN
+Palindromic Binary Numbers - PALSUM
+Chef and Secret Password - SECPASS
+Cooking Schedule - SCHEDULE
+Can You Reach The End - RECHEND
+Distribute Candies - DCANDY
+Dr Phil goes to the ranch - CAC202
+Maximise Subsequence Value - MVAL
+Little Elephant and Alcohol - LEALCO
+Minimum Sum - MINARRS
+Chef and Walk - RECNDNUM
+Save The Princess - SHIRO
+Double Burgers - BURGER
+Painting - PNTNG
+Mike and Stamps - MIKE3
+Swapping to Palindrome - SWAPPALI
+Binary String Game - BINSTRGAME
+Roads in Chefland - CROADS
+Print Sub-Array - ARRLS1
+Draughts - DRGHTS
+Guess the number - GUESSNUM
+Chef Find XOR Beautiful - CFXORB
+Special Fibonacci - FIBXOR01
+The Saviours - THESAV
+Increase 2 consecutive characters - CCD
+Chef and Tuples - CTHREE
+Polo the Penguin and the Numbers - PPNUM
+Interesting Representation - INTREP
+Maxim and Progressions - MAXPR
+Stacking Pancakes - PANSTACK
+Resistance - RESIST
+Chef and Robots Competition - CHEFARC
+Discount on crackers - ACM14KG3
+Chef Is Just Throwing Random Words - SSO
+Chef and His Friend - FRNDMTNG
+Ish and String Game - ISHGAME
+Cascading Style Sheets - CSS2
+Prime Permutations - PPERM
+K - balanced string - KBALANCE
+Sereja and Array and Subtracting - SEAARASU
+W String - WSTRING
+Swapping - SFRV
+Another game of numbers - GAMENUM
+Little Elephant and Exams - LEEXAMS
+Washing Windows - APARTS
+Chef and Rotation - RECNDROT
+Lumpy - The Bus Driver - LUMPYBUS
+Pyramid Traversal - PYRAMIDMOVES
+Random decreasing function - RDF
+Chef and Counting Test - CK87GSUB
+Weird Question - WEIRD2
+Simple Sum - SMPLSUM
+OneTwo - OETW
+Partition It - PARPERM
+BILATERAL SEGMENTS - COW3B
+Frequency Array - FREQARRY
+Table Game - TABGAME
+Devu and his Class - DEVCLASS
+Maximize LCM - MXMLCM
+Yet Another Nice Girl - ARRGAME2
+Last Digit Sum - LASTDIG
+C - Chef and Maths - MATHL
+Grid Tour - GRIDTOUR
+Good Grid - GOODGRID
+Minimizing the dot product - BITMASK2
+List Editing - EDITLIST
+Another Shortest Paths Problem - SPATH3
+Pumping Water - PUMPWAT
+Dalgona Treat - DALGONA
+Tourists in Mancunia - TOURISTS
+Hot and cold Tanks - HOTNCOLD
+Money Transformation - MONTRANS
+A vs B - COLLECT0
+Gold Collection - GOLDTRIP
+Minimum operations - MINOPER
+International Day of Yoga - RAMDEV
+Greatest Dumpling Fight - DUMPLING
+Chef and Riffles - RIFFLES
+Mathison and the Dynamo shuffle - MATDYS
+Mexy Array - MEXYARR
+Flooring - FLOORI4
+Tree Game - TREEGAME
+Get AC in one go - COPR16G
+Free Shuttle Service - SHUTTLE
+No Strings Attached - NSA
+Tree Distances - TDISTS
+Tennis Tournament - EXUNB
+Chef and Circle Run - CHEFCRUN
+Valid String - VSTRING
+Garden Squares - GARDENSQ
+Maximum Number - MAXNUM3
+Sereja and Transformation - SEATRSF
+Friend Groups In A Line - FRIENDGR
+Circle of death - CIRKILL
+Mayhem Again - MARLA
+A Special Tree - SPTREE
+Chef and Destruction - DESTROY
+Gift and Chef - GIFTCHEF
+Secret Machine Mania - GCD_LCM
+Wildcard Replacement - WLDRPL
+Make that Array! - SWAPGAME
+Checkpoints - CHKPTS
+Angry Cyborg - AGCY
+Finding Hardest Sum Value - KOL15B
+The Number Of Solutions - CNTSOLS
+C - Mission Gotham - GOTHAM
+Stable Mex - STBMEX
+RGB Construction - RGBCONST
+Dual Nim - TWONIM
+FINISH ALL THE SWEETS - POPPUSH1
+Chef and Meatballs - COMAS
+Paleontology Museum - ECMAR20F
+Chef and Filters - CHEFFILT
+Word Stem - STEM
+Morning Assembly - ENCDEC2
+Chef learns Statistics - ECAPR204
+Devu and decorating birthday cake - REARRSTR
+Median Rearrangement - MEDMAX
+A Prime Conjecture - PRIMES2
+Robot Detector - UKROBOT
+Launch Tower - ACM14AM3
+Longest Good Segment - LGSEG
+Bouncing Balls - BBALLS
+Ciel Numbers II - CIELNUM2
+Magician versus Chef 2 - MAGICHF2
+Minimise Difference - MINDIFF1
+Floor Division Game - FDIVGAME
+Distribute idlis Equally - EQIDLIS
+Cute Chef Gift - COPAR
+A Plus B Again! - TAAPLUSB
+Online Chess - ONCHESS
+Arranging the Inventory - INVENTRY
+Sports Championship  - ZRACE
+Matrix Again - RRMTRX2
+Need More Diamonds - DIAMOND
+Magical Modulo - MAGICMOD
+Cube Cakes - CUBE
+Maximize Letter Beauty - MAXBTY
+Coal Scam - COALSCAM
+Reverse Maximisation - REMMAX
+Misinterpretation - MISINTER
+Awesomeness of Strings - IITK1P02
+Lucky Number - LUCKYNO
+Chef team - CHEFTEAM
+Chef and Bracket-Pairs - CHEFBR
+Sardar and GCD - DLTNODE
+BIT Magazine - TRMAG
+Tree Product - TPRODUCT
+Sorting Segments - SORTSEGS
+Point Grid - PGRID1
+Gabba sprint - AMR14I
+Minimum Popping - DEQUEUE
+Mango Market - MANGOMKT
+Happy Kids - ENCDEC01
+Lyra and the Alethiometer - ALETHIO
+The Evil Professor - EVIPRO
+Pizza or Broccoli  - PIBRO
+Markers and Caps - MARCAPS
+Nuttela in Hyderabad - ENOC2
+Makx Sum - KSUBSUM
+How to Repaint a Fence - STRBIT
+Chef Teams - CTEAMS
+Lucky Count - LUCKY1
+Game with numbers - GAMENUMB
+Smaller than the element - KRYP6
+Dish Distribution - DISHDIS
+Indexing - INDX12
+Chef and K Segments - CHEFKO
+Destroy Cells - DESTCELL
+Matrix - MTRWY
+Guess The Day - GUESIT99
+Maximum Possible Sweetness - MAXSWT
+Chef Goes Through Segments - GERALD03
+The Lost Arithmetic Sequences - TAASEQ
+Chef and Gift - CHGIFT1
+Mex Subsequence - MEXSUB
+Xor It - XORIT
+Bitwise swaps - BITSWAPS
+The Alternating Sum - ALTERSUM
+Integer concatenation - INTCONCA
+Tug of War - TOW
+The Biggest Restaurant - BIGRES
+Coin Game - CMED01
+D - Pilgrims Destination - PILGRIMS
+Chef and Two String - CHEFTWOS
+Empire Business  - SOLDVAL
+Second Year Pains - KJCP02
+Balanced Array - COOK82B
+Sereja and Line - SEALINE
+A Weird Device - ICL1901
+Chef and Escaping from the Labyrinth - L56LABY
+Easy Series - NBC004
+Younger Brother - CHEFBRO
+RUN, CHEF, RUN !!! - ENOC4
+Strip in a Tree! - STRPTRE
+Chef and Hills - CHILLS
+Sasta Operation on Tuple - ECJN201
+Get on the String - STRLS1
+Most Popular Friend - LOKBIL
+Subarray Jumps - SUBJUMP
+Rabbits and Carrots - GGBUNNY
+AS EASY AS ABC - EASYABC
+Ciel and New Menu - CIEL8STR
+Task Times - TASKTIME
+Special Digit - PREE02
+Solve The Case - BC202
+Covid Analyzer - COVIN
+Chef and His Garden - CHAHG
+Jon and Selina - SELINA
+Puppy and Board - TUZGMBR
+Infinite polygons - ICM0003
+Give those children some toys! - ECJN203
+Help Akash ! - ENOC3
+Domino Solitaire - DOMSOL
+Petr Contest - CHN15B
+Infinite Grid Game - IGAME
+Maximal crosses - MAXCROSS
+Derive Good String - GOODLS1
+Count palindromes - COUNTPAL
+Highest and Lowest - CPCEJC2
+Special Cracker - SPECRK
+Mr Thakkar want to go dream land - COAD03
+Geeky Arun - COMAPR01
+Game of Chef - CHGM1
+Robot Movings - MOVES
+Rectangles Counting - RECTCNT
+Digit Rotation - DIGROT
+Mah Queen - INQU2000
+A String Game - ASTRGAME
+Number of Ways  - NWAYS
+No Succession - BC104
+Queries on a Binary Tree - BINTREEQ
+Substring Problem - SUBSTR
+Purify It - PRFYIT
+Collision in Space - COLLIDE
+Mr Wireless - KOL16H
+Cake and Precision  - ECPC10C
+Tower Counting - TOWCNT
+Chef and Candies - ECJAN20B
+Counting Graphs - CNTGRP
+Weird Values - WRDVLS
+Prime divisors - PRMDIV
+Useful Number - USF
+Bear and Shop Trip - SHOPTRIP
+The Space Exams - SPCEXM
+Harshikaa and the Rain - RAINDROPS
+P Equal To NP - P_NP
+Sed Passwords - SEDPASS
+Team Strength - ENCDEC04
+Two Circles - CIRCLES2
+Troublesome Harsha - COWA19C
+Chefs new Pet - HAREJUMP
+Organisation - UWCOI21C
+Sereja and Arrays - SEARRAYS
+Robot Walk - RWALK
+Central Point - CPOINT
+Celebrity In Trouble - SCC5
+Squares Counting - GRIDSQRS
+Chef and Subarrays - CHEFARRB
+Dhonis Bowlers - AMR14C
+Tree Counting - TREE
+Random Game - RANDGAME
+Rock Paper Scissor - ECJN204
+Compartment Weights - TRAINWT
+Firdavs and Planet F - FAPF
+College Admissions - ADMIT
+Houses and Restaurants - RHOUSE
+Permutation Swaps - P7SWAPS
+Minimal Travel Time - CLASSES
+Lucky Number - LUCKY2
+Vote for the Noodle Soup - NDLVOTE
+Chef and Submatrix - CHEFAXR
+Omi and matrix - OMYGAME
+Most Distant Points - MOSTDIST
+DESORT - DSORT
+Print The Pattern - PATT12
+Return of the Gargoyle King - GARGOYLE
+Count Relations - COUNTREL
+Chef and Chefina - CHFNA
+Chef and cinema - CHCINEMA
+New Sequence - ECAPR203
+L-R queries - LRQUER
+Chef and Numbers - CHRL3
+Library and Headcount - ACMICL3
+Help Chandler - ENCNOV
+Lucky Palin - LUCKPAL
+Beats and Pieces - BPS
+The Abominable Bride - CDVA1604
+Method Resolution Order - MRO
+Longest Weird Subsequence - LWS
+Moving Coins - MVCOIN
+Flu Shot Lineup - FLUSHOT
+Triangle Query - TRIQRY
+Chefs Homework Dilemma - HMWPRB
+The Great Wall of Byteland - BWALL
+Code Koroo Naaa - CODEKARO
+Chef Travel Routes - TRAVELER
+Coldplay Concert - COLDPLAY
+Rubiks cuboid - INLO22
+Constructive - ECPC10B
+We have a HULK - CR193
+Little Elephant and Balance - LUCKYBAL
+Little Elephant and Product - LUCKY8
+A-B Game - ABGAME
+Secret Mission - SECRETMI
+The One Where No One is Ready - S03E02
+Stingy Strings - ICL1802
+Cultural Programme - CULPRO
+Just multiply - LCH15JEF
+Birthday of Anabelle - BDYGFT
+Candy Collecting Game - CANDYGAM
+Corrupted Seven-Segment Display - SEVENSEG
+Adding Fractions - ADDFRAC
+Xor Compare - XORCOMP
+Make it zero - MAKEIT
+Choose Your Plank - PJCYP
+P-E - ITGUY51
+Rough Paper - KRAFT
+Chef And His Society - MDSA
+Flappy Bird - FLAPPYBD
+Password - PRCN16A
+Ones Guessing - ONESGUESS
+Maximal Score Path - RG_01
+Colliding Race - RROUNDS
+Perfect Subarrays - SUBARR
+Sealing up - SEALUP
+A-E Hash Function - AEHASH
+Randomly Testing Circuits - CIRCUITS
+Influence on Social media - AMR16C
+Brush Fire - FIRE
+Concurrent Lines - CUCRLINE
+Batteries Needed! - BATTERY
+Andrew and the Strings - AMSTRING
+Minimum Insertions - MININS
+Find The Factos - FIFACT
+Shifted Palindrome - SHIFTPAL
+Save Patient - PAC6
+Ciel Numbers I - CIELNUM1
+Graph Construction - KDIAMS
+Generalized Arithmetic Progression Free Sequence - GENARSEQ
+Queen�s Necklace - RDC1
+Championship - CSHIP
+Strange Swaps - STSWAP
+Expectations on a Permutation - EXPPERM
+Fill the Truck - FLTRCK
+Fitness Exercises  - EXERCISE
+Is Sum Possible - POSLS1
+Rendezvous - TR1
+Sums - PRCN16B
+Subtraction Game - GAMEAAM
+Spy and Palindrome - RGSPY
+Precious Stones - KOL16F
+Expected Area - EAREA
+Doubly Increasing Path - DINCPATH
+Square Function - SQUAREFU
+Jewel Mine - JEWELMIN
+Pawri ho rahi hai - YAD786
+College Library  - COLIB
+Chef & Chefu walk - NBC002
+Inverse Knapsack - INVSACK
+Planetary Path - PLNTPATH
+One Dimensional Game of Life - LIFE
+Even and Odd - EVEODDEQ
+Trip - TRIP
+Grid Path - GRIDPA
+Ruman and Pull Requests - DWW19D
+Love is in the air - CC005
+MATHS - find sum - SUMMATH
+Ciel and Map - CIELMAP
+Byteknights and Byteknaves - BYTEISLE
+Binod and Chocolates - ZEN1
+Folding Paper - PAPER
+Birthday Bash - HBB
+Snake Snaky - SNAKY
+Nice Quadrangles - NICEQUAD
+Worst Case Analysis - ICL1704
+Chef Does Coke Yet Again - COKE2
+String Generation - STRGGEN1
+Prime Pattern - PRIMPATT
+Barrel and password - HACKS
+Lucky Numbers - UNWNT
+The Black and White Knights - BWKNIGHT
+Rearranging Cartons  - REACAR
+Breaking Into Atoms - ATOMS
+Chef And Hungry Birds - HBIRD
+Word Play - WPLAY
+Super-plane - SUPERPLN
+CHRISTMAS EVE - CHRIST
+Packing the Golden Triangles - PACKBAND
+Anjali and Tasty Treat - DWW19C
+Socializing Game around Pizza - BIGPIZA
+Selection Battle - DWW19J
+Bogosort - BOGOSORT
+Chefland Masterchef - NBC003
+Can you see me!! - CYSM
+OCTAVE TUNES - OCTAVE
+Chef and midsems - CHEFEXAM
+Tree Query - TREEUGH
+Fibonacci Inspiration - IEMCO8F
+Gilfoyle Vs Dinesh - GVR
+Fast squarer - FSTSQ
+Naughty and Balls - BALLS
+Monika And Song - MRS
+Status and Updates - ENCDEC03
+Abhinav and Electric Circuit - DWW19I
+MATRIXMIN - MATMIN1
+Flash vs QuickSilver - FLAASH
+Converese Palindrome - CONPAL
+Obsession with 7 - CAKP01
+Chef and  Array - EXPCODE1
+Omax - OMAX
+Code To Get Her - CMX1P03
+Wrong Answer - CLCO06
+Devu and Manhattan Distance - MDIST
+Grand Party - CLCO05
+Whole submatrix - WINDOW2
+Tree Height - MCO16403
+Easy Numbers - EZNO
+Up for a Game - CLGAME
+Even Vs Odd - CHEFRTU
+A Tale of Two Right Angled Triangles - TALETRI
+Poreee gelooo - PREGLO
+Nuttela needs a little help - AVNP5
+Just Substract IT - JUSTSUBS
+SMS Dictionary - SMSDICT
+Little Elephant and Magic - LEMAGIC
+BOOKS - BOOK
+Finding Pairs - VKMPAIRS
+Golden Trees - GROWGOLD
+Devu, his friends and birthday gifts - DEVBDAY
+Direct Series - DSERIES
+Defacing Score - DEFACING
+Balls - HW2B
+Swati and Sstrings - DWW19H
+Golu and url shortner  - FEST03
+Psertu in Byteland - ECJAN20I
+Building Stairs - BC103
+Ddakji - MSUM
+K - Magical String - MGSTR121
+Time Conversion - TIMECONV
+Square Cube - SQCB
+Sky Watching - SKYFALL
+Encryption of message  - NXS1
+Panda loves Chocolates - ALR20B
+Profitable Paths 2 - PRT2
+Hopscotch - GIFTPAIRS
+Set Queries - SETQUER
+Antique Comedians - IOI1804
+Choose the capital - ARRCENT
+Teddy and his Mission - LAEDDIS
+Hotel Balifornia 2 - HOB2
+Captain Party - SCC0103
+Niceness of the Arrays - NICARRAY
+Chef And game - MDSB
+CHEF GOES FOR A DATE - ERROR02
+Campus Drive - CPC4
+Access Granted - TYNS007
+Obstacle Course - COURSE
+Fluffy and Flippy Bird - MCO16303
+Efficient Delivery - UWCOI21D
+Two-lane Road - TWOLANE
+CHEF AND LOTTERY - ERROR4
+Chef and Alphabets - WANNABET
+large fibonacci - SRTX16B
+Neil and his Binary Tree - GOODBINTREE
+Bits Magic - BITMAGIC
+Nice SubSegments - SUBSGM
+Counting Lights - MCO16105
+Kalakshetra - KALAKSHETRA
+Killing Zombies - CLKLZM
+Maximize It - MXM
+Fluffy has a Robot - MCO16402
+BOND - BOND
+Deciding University - DECUNI
+Matrix Transformation - MTRNSFRM
+CAPITALIZE LETTER - IOI1803
+Icing on cake - IOC
+Shopping - INLO34
+Chef and String - CPCEJC3
+Changing Money - KAN13G
+Phoenix Meets Valkyrie - CDVNT01F
+Chef and Chocolate - CHOLAT
+Snacks - HW2A
+Name Problem - GCTNM
+Chef Queries - CDVA1605
+Neha and Special Number - NHSPN
+Infinite Increments - INFTINCR
+Queries with Bags - DSUBAGS
+Failing Phobia of Jay - JVPHOBIA
+Printer Machine - AUPM
+Mr Swegwan and Arrays - SWEGARR
+Apaji Swings - APJSWG
+Sagar And Strings - SGRSTR
+Clarke and Australian Cricket Team - AUSCRIC
+Sonya and Segments - SONYASEG
+Chef and Triangles - LTM40CD
+Jon and You - FASTJON
+Super Sayan - SSJG
+Grumpy Granny - GRUMPMA
+Sugar Rush - INTWOS
+E - Minimum Operation - OPERATE
+Taxi Making Sharp Turns - TAXITURN
+Chef and Jail - CHFOP
+Logarithmic Equation - LOG_EQN
+Chef and Prime - CFPRIME
+Rihanna and Fibonacci - CC2
+Lousy Game - BUG2K16C
+House Cleaning - HCLEAN
+Interrogating Gangsters - GANGAAM
+Minimum Product - MPROD
+Beautiful Function - COAD01
+Room Corner - ROC
+LOW AND HIGH - LOHIGH
+LCM and HCF - D2C101
+Penny and Candies - COG1801
+Code Together - CMX1P01
+Krishna and Coffee Shop - DWW19B
+Chef and Cards - CL16BD
+Chef and Pie - CHXORR
+Plus One - ARRCHEF1
+Dividing the Students - DIVIDE
+Fun with Numbers - NUMGME
+Legend of Zelda - LNK1
+Cats and Rats - CATSRATS
+End Of The World 2 - CHEFHCK2
+Hunting Race - HNTRACE
+Fair Pairing - FAIRPAIR
+Glass Bead Game - GLBEGA
+Chef and Ola Cab - EXPCODE2
+Brand New Game - BNGAME
+Ant Colony - KGP13F
+A Simple Problem - SIMPLEPROB
+Freshers Party - COTH001
+Bring Positivity - CHRIST01
+Building Permutation - CDX1604
+Magical Mountain - CDVA1602
+Shift and Push - PRCS16B
+Alein invasion by NASA - ALIEN1
+Maximise the differance - DEBUGMAX
+PrePre - CF222
+Pooja Paath - SWASTIK
+Writing Numbers - LOSTNUM
+Chef and Restaurant - CHFRST
+PA for Stick counting - MKTRNG
+I want Goodies - GOODS
+Helping Machine - CMAN2
+Naughty Sanket - GSRM01A
+Hopscotch - CLCO04
+Reverse The Word - BC102
+Swapping in a matrix - SWAPMATR
+Partitioning Vijju - VIJJUPAR
+Sequence Transmission - AMSEQT
+For The Lack Of A Better Title - SWPERMS
+Find The Digits - FINDDIG
+Simple Sum - COAD02
+Coins - CMED206
+Thomas And His Friends - TCQF181C
+Virat and his Team - BYTES12
+Chef and Sum - DECOSUM
+Sameer vs Shivam  - CULMYCA
+Grouping them right! - GRP
+Jethalal and Mehta - CAKP06
+Breaking Profit - BRKPR
+Optimal Trip - TRIPCOST
+Spike and his Task - SPIKENTASK
+Gym Freaks - GYMTYM
+Sheldon and trains - TRN2
+Taran and Tarini - TARITAR
+Sherlock and the Perfect Array - IITI14
+Jobless Phoenix - CDVNT01A
+Special Chess-Board - SPBRD
+PERFECT_PRODUCT - RANPRO
+Complete the function - SSEC0001
+Jumping Jack - SRTX16C
+Sum of Values - PREE05
+Fun With Numbers - NUMFUN
+Magical Bullets - MAGIC123
+Tom and Jerry Rivalry - RIVALSTNJ
+Factors and Function - FORFS
+Good Roads - GROADS
+Round Money - FEST10
+DP - Ways to write word - VOWELDP
+A Game With a Sheet of Paper - SHGAME
+Happy Diwali! - COG1805
+Two Number Game - CMAN1
+Tony vs Thanos - TVT
+Diagon Alley - DIAGON
+Cut The Sticks - CUTSTICK
+Mike and GP  - BYTES13
+Lucy and the Math Analysis - LMA1
+Codechef Rating Pattern - ECMAR20D
+In and Out - FEST07
+Chef and Frequencies - CL16BC
+Chef and Range - CHEFAMPP
+Ramanujan and Numbers - CDQU3
+College Canteen - CDFI2
+Creating New Mathematical Tasks - HW3B
+Divisibility Sum - GEEK02
+An Apple a day - APL3
+Rock, Paper, Scissors - MHGOC01
+Arjun and Fibonacci - COPR16A
+DOUBLE AND MISSING - ENCJMAY3
+Combinatorial Numbers - CNR
+Average Score - AVGSCORE
+Minimum Steps - MINSTEP
+Fluffy and Scoreboard - MCO16302
+Count the regions - COUNTREG
+Harry And Ron Got A Map - AMC3
+Beautiful Ranges - RANGES
+Run Length - MCO16202
+Lazzelles Row - LZRW
+Anupam and Raja - ANURAJ
+Richies Mountain - REC09C
+First Impression - CC002
+Abhishek And his Queries - KJCP04
+Streets Of VSSUT - COLGQU
+Asya & Encoding - ASYA1
+Zombie Apocalypse - ZMBI3
+Santa and Candies - SANCANDY
+Mini Puri - CHAAT1
+Play with Prime - PPRIME
+Strange Batman - BATMAN
+Fun with Two - TWOFUN
+Riku and Toys - CDX1605
+PHOTOGEN - PHTGEN
+Chef and Professor - CHFPROF
+Chef and Bits - SPIT2
+Stable Atoms - CRANATOM
+Santa in a Hurry - SANHURRY
+Raghavs Birthday - RAGHAVBDY
+Deja Vu - WSCAGAIN
+Chef and the medals - TOPCHEF
+TNP CHALLENGE 402 - TNP402
+Eating Competition - ECOMP
+Vivid Placement - VDPT
+Guess Game - ENCJMAY1
+Joey and food - ADD7
+How to Operate a Robot - VISITALL
+Number Theory - IT1
+chess - FEST09
+Ice-Cream Vending Machine - CMAN21
+CLOCK - CLOCK
+Strike-Rate - SRATE
+Help the president - ENCJMAY6
+Chef And Dogs - DOGGO
+Encrypt The String - BC203
+TNP CHALLENGE 605 - TNP605
+Chef With Leonardo - ENCJMAY5
+Polygon with N-Sides - NSDPOLY
+Help Baby Chef - HLPCHEF
+CHEF and HOTEL - D2C105
+Perfecto - COW204
+CHEF MAKES GOOD PAIRS - CHEFG999
+C1 - Successor (Easy Version) - FCF2P1
+Distant Relatives - DIREL
+Chef and his quest for a date - COEX02
+The Battle of Gongmen City - ALR20D
+Buying Seedlings - SEEDLING
+Cut the Stick - REL102
+TNP CHALLENGE 401 - TNP401
+Think Like An Isosceles Triangles - LIKTRI
+Priyam, his phone and Utsav - CODEO5
+Samosa - CHAAT3
+Binary Power Game - BINPOWER
+A Success To Date - AMANLC
+Gifts at Olympics - OLYMPIC
+The Jumping Kangaroos - JMPKANG
+Chef and Robot - DECOSNKE
+The Fight - FGT
+Phoenix and Video Games - CDVNT01G
+University Meeting - UNIVMT
+Maximum Squares - POPB
+Jonesy Wants Help - JONHLP
+String Matching - STRMAT
+Worthiness - INNOV101
+Googleyness - FAANG
+Tony and Stocks - TSTOCK
+Quadrants Count - QUADCNT
+Crack The Logic - CRACK1
+Electronics Project - CIRCUIT
+Vada Pavs - CHAAT2
+New Year 2021 - NEWYR21
+Chefu And Math Exam - MATHEXM
+Cyber War - COMAPR03
+Hawk and gift box - HWKGB
+Breaking Escape - BRKPD
+Legendary Philosopher Stone - PHILOSOPHER
+Graph Partition - MCO16104
+Strings Classes - CLCO07
+Easy One - CAC105
+Find Nth Term - NTERM
+Flippy and Fluffy - MCO16204
+A Secret Message - D2C104
+FINCOR - CMED05
+Vipin And His Girlfriend - VIPGF
+Ichicka and Toys - IATOYS
+The Curious Case of Mr Famous Five - FIVE
+Sets Within Sets - CODE1602
+Badminton Strings - BADDYSTR
+Rabbit Race - RRACE
+Monster Hunting - QLK01
+Help Chef - ENCJMAY4
+Be like Chef - COEX05
+Average price of zone in City - AVERAGEPRICE
+Valentine Number - VALNUM
+Joeys Birthday - JOEYBIR
+Encrypted palindrome - ENP
+Chivalrous Samosa - CHIVOSA
+Beautiful Array - ALGOQ004
+Breaking Production - TRJOL
+TNP CHALLENGE 403 - TNP403
+Technical Club Interview - TCINVW
+RK and his minimalized LIS  - RKABOL05
+Function Composition - REL201
+Jashan and his dog - MINECRFT
+VALENTINE DAY GIFT 2K18 - VALGIFT
+SLAC Snack Exchange - SSEX
+BANTAS CONUNDRUM - IT3
+Alien Invasion - INVASION
+Chef And Wedding - CHEFCWED
+Save the Prisoner - SAVPRSNR
+Not a Cakewalk - HTST8
+C2 - Successor (Slightly Harder Version) - FCF2P2
+Neha and Destination - ZEN2
+Happy Birthday - HBDY
+Disciple Training - CLDSTR
+Find The Number - CODEBRK1
+Fill Matrix Safely - MATFILL
+YE DOORIYAN - ERROR0
+Chefina and XOR - DECOXOR
+Breaking Bonds - STONE
+Empty Bucket - K3002
+The Cure - CURE
+Chef and Cakes - CDIT05
+Election in Simalokolo - QLK04
+Game Of Strings - GOS2021
+Chef And His String Game - CMAN23
+Chandler vs Joey - CHAJOE
+Table Decorations - CDX1601
+World War III - WOWR4
+The Intersection - TINT
+Skill Improvement - SKLIMP
+Konkatonka - PRPR4
+Secret Key - MATCHKEY
+Chef and Modulo  - KCC03
+COMP4204 Lecture - HW3E
+XPrime - XPRM
+Visiting Toy Store - VTOYS
+RENOVATION - RENV20
+Bob the Builder - FIR123
+Frustrated Vipin - FEST05
+French Fries - CHAAT4
+Accommodation Plan - ACMP
+Big Input - SIMBIRD
+Rachel Challenges Ross - RACHCHAL
+Make Palindrome - MPAL
+Walking around lake - LAKWAK
+Area of Squares - ENCJMAY7
+Chef and Rod - CFROD
+Save The Laddus - SAVL
+Team Contest - NGLK3
+Flipping Rectangles - MCO16203
+Dream friend - CSTR02
+DSC Contest - RANKDSC
+MACE CODE CHALLENGE 2 - MCODE02
+Binary Mess - CMC304
+Chef and Money - CHMNY
+Changing String - MCO16103
+Backwards - speak - CODEBRK2
+Binary Strings - CODE1601
+TNP CHALLENGE 302 - TNP302
+Chef and his babies - SIMBABY
+NARUTO VS SASUKE - NARSAS
+Break the Myth - MYTH
+Tick Tock Clock - MHGOC02
+Ayoub�s Game - HW2G
+Chef and Meeting - CMEET
+IPL Gamble - GMBLE
+Getting Late - CHOOSE
+No equal guest pair - PARTY20
+Game of Towers - LEGOWARZ
+Let�s Decode - HW3F
+Ali�s Sequence - HW3A
+Swegwan And Strings - SWEGSTR
+Reverse Engineering Problem 3 - REVENG03
+Split Array - MCO16502
+Jon and Encryption - JCRYPTO
+Viru and his Unique Series - FEST02
+MCL PHASE 1 CHALLENGE 101 - MCLP1101
+Mario and the Princess - MARPATH
+Electronic Board - HW2F
+Alien and Primes     - ZEN3
+TNP CHALLENGE 702 - TNP702
+TNP CHALLENGE 701 - TNP701
+Sherlock and Matrix - SHERMAT1
+REACH CMRTC - REACHCMR
+Two Robots - MHGOC05
+MACE CODE CHALLENGE 1 - MCODE01
+MCL PHASE 1 CHALLENGE 102 - MCLP1102
+Park the vehicles - IOI1805
+C - Servant Sword Trials - FCF2P3
+Finding criminals - CRIMINAL
+Bhel Puri - CHAAT7
+Central Intelligence Pawgency - CAC203
+MS Sort - MSSORT
+Lateral Entry - LATEENTR
+Rail Yatra - CMAN5
+Color Blind - CAC101
+Toy Store Revisited - RVSIT
+The OCD Chocolate Box - OCD
+GCD Exploration - MHGOC04
+Gym Freak - KCC04
+Jon and Bruce - JONBASE
+Selfie In London - CMAN24
+Guess The Output - CMAN22
+Cooking - AOC04
+LeCun GPU Selection - PRPR1
+Count Fridays the 13th - MHGOC03
+MCL PHASE 1 CHALLENGE 107 - MCLP1107
+MCL PHASE 1 CHALLENGE 103 - MCLP1103
+Jon and Samedonic Numbers - CONSEONE
+Two players and coins - AT001
+Neural Firing - PRPR2
+ICC T20 World Cup 2021 - ICCT20WC
+Preparing Problem set - CODEBRK3
+Cubes and Coins - CMC302
+Chef Birthday - CMAN3
+Arrays and queries - CM1902
+TNP CHALLENGE 601 - TNP601
+TNP CHALLENGE 502 - TNP502
+TNP CHALLENGE 501 - TNP501
+Candles on the Cake - SQMA01
+MCL PHASE 1 CHALLENGE 105 - MCLP1105
+MCL PHASE 1 CHALLENGE 104 - MCLP1104
+Illuminate the Garden - LIGHTZ
+Economic Inequality - DPSSPC04
+Laddooos - CHAAT5
+The Trains - CAC102
+TNP CHALLENGE 602 - TNP602
+FIND LEVEL - SQMA04
+Guess the Number - ENIGMA01
+AP - SQMA06
+MCL PHASE 1 CHALLENGE 106 - MCLP1106
+Help Kiteretsu - CMAN25
+Pacman - PACMAN
+Ticket wala - CMAN7
+Balancing Act - BALANCE
+Encrypti Encryption - CMAN26
+Chocolate Monger - CM164364
+Manhattan Rectangle - MANRECT
+Triplets - SUMQ
+Pairwise union of sets - UNIONSET
+Multiple Games - MULGAME
+Yet Another Flipping Problem - BINFLIP
+Chef Hates Palindromes - CHEFHPAL
+Better Maximal Sum - MMSUM
+Shift The String - TASHIFT
+Chef and A Large Permutation - CLPERM
+String Operations - STROPERS
+Dividing Machine - DIVMAC
+Bickering Cooks - BICKER
+Multiples of 3 - MULTQ3
+The Gray-Similar Code - GRAYSC
+Subarray LCM - SUBLCM
+Friends - RRFRNDS
+XOR Sums - SUMXOR2
+Queries on the String - QSET
+Chef and Prime Queries - PRMQ
+Chefina and Prefix Suffix Sums - CHEFPSA
+Addition and Multiplication - ADDMUL
+Pishty and Triangles - PSHTRG
+Chef and Rectangle Array - CHSQARR
+Adding Squares - ADDSQURE
+Sereja and Graph - SEAGRP
+Chef and Dragon Dens - DRGNDEN
+Chef and Functions - FUNC
+Subsequence Frequency Counting - SUBSFREQ
+Little Elephant and Painting - LEPAINT
+A Story with Strings - SSTORY
+ChefGame - CHEFGAME
+Factor Tree - FCTRE
+Chef and Cycled Cycles - CHEFCCYL
+Devu And Churu  - DCGAME
+Another Tree with Number Theory - ATWNT
+Destroy the EMP Chip - CHAOSEMP
+Pishty and tree - PSHTTR
+Stable market - SMARKET
+Chef and Gcd Queries - GCDCNT
+Prefix as a Substring 2 - SSTRPREF2
+Chef and String - CHSTR
+Chef and insomnia - CHINSM
+A Home for Chef - CHEFHOME
+Cutting Plants - CUTPLANT
+Sticky Notes - STICNOT
+JosephLand - JTREE
+The Delicious Cake - CONTAIN
+Ancient Berland Roads - ABROADS
+Chef and Words - CHEFWORD
+Points Inside A Polygon - POINPOLY
+Maximum number, GCD condition - ANUGCD
+Sereja and two strings - SEATSR
+Insanely Hard School Exams - ACCBIP
+Fire and Ice - FICE
+Friends Meeting - FRIEMEET
+Maximum Size Hollow Square - HOLLOW
+Mountain Holidays - MOU1H
+Collecting Magical Berries - COLLECT
+Chef and cities - FRJUMP
+Gears - GEARS
+Divisible Pairs - DIVPAIR
+Chef and Segments - CHSGMNTS
+Calculus - CALCULUS
+Chef and medium problem 2 - CHEFD
+Cards, bags and coins - ANUCBC
+Cyclist Race - CYCLRACE
+Two Flowers - TWOFL
+Mountain Holidays 2 - MOU2H
+Fibonacci Queries - FIBQ
+Sereja and Two Lines - SEATL
+Expected Change - EXPCH
+Pishty and birthday - PSHTBRTH
+Directing Edges - EDGEDIR
+Codechef War - CHFWAR
+Devasena - AMR15B
+Chef and Subarray Queries - CSUBQ
+Sereja and Salesman - SEAKAM
+Snakes and Graph - SNGRAPH
+Churu and lost string - CLOST
+Expected Number of SCCs - RCTEXSCC
+Guess the Tiling - TILESQRS
+Longest Increasing Subsequences - MAKELIS
+Sereja and D - SEAD
+Time to Study Graphs with Chef - CHEFGRPH
+King Killing - KKLING
+Juno Puzzle for May - JUNONGF
+Chef and Problems - QCHEF
+Meteor - METEORAK
+Magic Board - MBOARD
+Earthquake - EQUAKE
+Sereja and Ballons - SEABAL
+Coordinate Compression  - KCOMPRES
+Partition the Graph - GRAPART
+Two Closest - PAIRCLST
+Chef and Inflation - CHINFL
+Squirrel and chestnut - SQUIRREL
+Cheating on Queue - CHONQ
+Scalar Product Tree - SCALSUM
+Chef and The Divisibility Queries - DIVQUERY
+Chef and special numbers - WORKCHEF
+Square in numbers - SQNUMBF
+ForbiddenSum - FRBSUM
+Sorting Vases - SORTVS
+Jam Board - JABO
+Counting Strings - TACNTSTR
+Sereja and Random Array - SEAPROAR
+Chef and Swaps - CHEFINV
+Sereja and GCD - SEAGCD
+Merciless Chef - MLCHEF
+A Game of Balls - GAMEBALL
+Chef Under Pressure - CHEFPRES
+Killing Monsters - MONSTER
+Digits Cannot Separate - DIGITSEP
+Urban Development - URBANDEV
+Chef and Roads - CL16BF
+Queries On Tree - TAQTREE
+Hit the Coconuts - CCC
+Lucky Game - LUCKG
+Unusual Queries - UNSQUERS
+Yet Another Card Game - CARDS777
+Subarray Xor - SUBBXOR
+Parity tree - PARITREE
+Super Hashing - AUHASH
+Sereja and Two Strings 2 - SEATSTR2
+Hill Jumping - HILLJUMP
+Chef and DAG - CHEFDAG
+Chef and Circle - CHEFCIRC
+Chef and his study plans - SUBSEG2
+Range Minimum Queries  - ANDMIN
+Cylinder - CYLINDER
+Kalakeya - AMR15C
+BOX REDUCTION - BXRED
+Little Elephant and Blocks - LEBLOCKS
+Funny gnomes - SHAIKHGN
+Destroy The Asteroids - DSTROY
+World War 2 - WW2
+Little Elephant and Bubble Sort - LEBOBBLE
+The Crofts Game - CROFT
+Kings Dinner - KGP14C
+Beautiful View, Magnificient Desolation - SOPC009
+Guessing Game - GUESSG
+Just Update and Print the array - KOL15C
+Chef and the Number Sequence - SEQLCS
+For the Benefit of All (hard version) - SOPC003C
+Rich Rhyme - KAN13C
+A Simple Sum - IITK1P07
+Parenthesis with Maximum Sum Subarray - SUBARRAY
+Total Palindromic Numbers - AOPN
+Sereja and Data Structures  - SEREJA
+Dividing Products - DIVPRO
+Cyclic shifts in permutation - PERSHFTS
+Blade Master - BMASTER
+Little Elephant and Median - MEDIAN
+Completing favorite game - FAVGAME
+Chang and Perfect Quadruples - CHNGSUM
+Mininum XOR over Tree - XORMIN
+Offer for Chef - CHEFOFR
+Path containing K Nodes - KNODES
+Servers - RRSERVER
+Sereja and Permutations - SEAPERM2
+Too Much Sweetness - ABX02
+Box and Ball System - BBSYSTEM
+Triangular Queries - TRIQUERY
+Sereja and Tree 2 - SEATR2
+Xor Decomposition - XDCOMP
+New Restaurant - NEWREST
+Present for Andrii - RRDAG
+Lasers Everywhere Alternative - LAZERTST
+Buying a New String - TWOSTRS
+Chef and Girls - CHEFGIRL
+Chef and Array - CHEFLKJ
+Ingredients - CHEFSHOP
+Lucky Balance - LUCKY9
+Chef and Super Array - CHSPARR
+Yet Another SubSegment Sum Problem - SEGSUMQ
+Adi and the Tree - ADITREE
+Lockdown Loss - ECODOWN
+Amazing Experiment - AMAEXPER
+Across the River - RIVPILE
+Sereja and Game - SEAGM
+Find The Point - TAPOINT
+The In-XOR-able Task - XOXO
+CivilWar - CVW
+Parallel Computing - PARALLEL
+Random Rudreshwar - ANURRZ
+Chefina on a Trip - CHEFTRIP
+Ways to Work - WRKWAYS
+The Warehouse - WPROB
+Repeated String - REPSTR
+MST Queries - MSTQS
+Absolute Min Max - ABSNX
+Binary Strings - BINSTR
+Chef and Divisors - DIVISOR
+Masha and Minions - MINIONS
+Devu and his three Hands - DEVHAND
+Match the Streams - MATCH2
+Rotate the String - ROTSTRNG
+Polygon - CF224
+Square Root of LCA Convolution - LCASQRT
+A New Door - ANDOOR
+Polynomial Partition Function - PARPOLY
+Game on Tree - TRGAME
+Game - RRGAME
+Number of Paths - NUMPATH
+Favourite Numbers - FAVNUM
+SAD Queries - SADQ
+Arigeom Beats - ARIGEOM
+Xor it - XOR
+Trees and Subtrees - TRSUBTR
+Random Chocolates - RANDCHCL
+Fractions - FRCTNS
+Final Exams - HW2C
+Team Formation - TEAMSIZE
+Birthday Gift - CHEFGIFT
+Lucky Sum - LUCKY3
+Hotel Balifornia - HOB
+Mathison and the teleportation game - MATTEG
+Chef And Fibonacci Tree - CFTREE
+Banana String - BANSTR
+Fetching Cooking Tools - TOOLS
+Restore the Recipe - RSRECIPE
+Another Fibonacci - MOREFB
+Lucky Fives - LFIVES
+Give those children some marks! - ECJN208
+Lonely Cycles - LONCYC
+Nasty Queries - COOK82D
+Chef and Sets - CHEFDTRE
+Interview Scheduling - KGP14D
+Count the Ones - COUNTONES
+Dot Time - DOTTIME
+Cosine Partition Function - PARCOS
+Gangsters of Treeland - MONOPLOY
+Chef and Combinatorics - GERALD05
+Alien Chefs - DOWNLOAD
+Robot Game - TR2
+The Baking Business - BAKE
+Make array great again - MAGA
+Gap Filler Game - GAPFILL
+Company and Club Hierarchies - COMPCLUB
+Polo the Penguin and the Lucky String - PPLUCKY
+Tokens On A Tree - TRTOKENS
+Random OR - RANDOMOR
+Hidden Cell - HIDECELL
+Warriors - WARRIORS
+Pleasing Chief - CHIEFETT
+Triple-tree decomposition - TREE3
+Sereja and Bubble Sort - SEABUB
+Maximum Grid - MAXGRID
+Generating Cycles - GENECYC
+Call Center Schedule - CALLSCHE
+Chef and Numbers - CHEFINS
+A humongous Query - XYHUMOQ
+Torque and edges - TRANDED
+Divide Me Please - KOL16E
+Prefix And - ANDPREF
+Unlock it - UNLKIT
+Vertex Cover - VRTXCOVR
+Zeta-Nim Game - TAKEAWAY
+XOR Minimization - MINXOR
+Jump & Reach - JUMPLS1
+Ciel and Eggs - STREGGS
+Abhijeet and rectangles - ANUAHR
+Spectacular Activity Selection - SPECTAC
+Lovers Gift - LVGFT
+Bipartite Graph from Trees - BIPARTRE
+Machine Gun - MACGUN
+Functional Array - FUNARR
+Chef and Rotation - MTRXOP
+Daddy and Chocolates - DDCC
+Ross goes for Shopping - ENG5
+The Postal Service - POSTAL
+3-Palindromes - PALIN3
+Good Array - GOODARR
+Balanced Walks - BALANCED
+Bridge Crossing - GEEK04
+Collect the Chocolate Chips - TKCHOCS
+K-Tuple Tree - KTTREE
+Chess Pushing Game - CHESSGM
+Snakes capturing the Mongoose Cities - CAPTCITI
+The K-th Path - KTHPATH
+Max Toys - MARTO
+Chefland Squads and the Army Chief - CHEFSQUD
+Area of an amazing figure - AREAFIGR
+Joined Subarrays on Tree - JTSARTR
+Prefix borders - BORDER
+Sereja and Stones - SEASTONE
+Compressed String - TACHEMIS
+Summing Slopes - SUMSLOPE
+Number Game - NUMBGAME
+Preparing Dishes - PREPARE
+Cobb and Mazes - ECAPR207
+Tree Unattractiveness - TREEUNAT
+Chef Rami and Inventions - CHEFRAMI
+PDS Number - PDSNUM
+Must Be Divisible - CHFDIV
+Hasan and boring classes - PALHAM
+K-Unique Sequence - KUNIQUE
+Black and Red vertices of Tree - BLREDSET
+Mayank and Line Segments - BITMASK4
+Snake and Apple Tree - SNKAPT
+Chef and Digits of Large Numbers - CDIGLNUM
+Treasure Hunt - TREASURE
+Maximum GCD - MAXIMGCD
+Logging Game - LOGGERS
+Chef and Chefness - CSUBSEQ
+Trees Again - TREES
+Rearrange the gifts - REAGIFT
+Ground Stations - ACM14AM2
+Restock - RESTOCK
+Andrew and the Birthday - LEFEED
+The potato problem - KTHCON
+Freaky Couple - REL203
+Game of Length - LENGAME
+Magic Array - MAGARR
+Festivals - SUBTREE
+Permutation Composition Queries - DOCSDEL
+Andrew and the Balls - AMBALLS
+Cybertree - TRECYB
+Find the Students - RIT02
+Playing World War II - KOL16A
+Characteristic Polynomial Verification - CHARVER
+Lucky Array - LUCKY4
+Sherlock and His Device - MISSME
+Rotate Point - ROTPTS
+Random Convex Hull - RNDCHULL
+Painting the Boxes - PAINTBOX
+N Knights Problem - KNIGHTS
+Closest Ranking - VOTING
+Save the nature - SVNTR
+Equation Solver - EQUATIO
+Strange Transform - STRTF
+Queries with GCD - GQR
+Restaurant Expansion - RESTEXP
+Bombing - BOMBING
+Convex Hulk - CONHULK
+Jackpot - JACKPOT
+Fly-overs - FLY
+Valet Parking - VALET
+Big Number - RRBIGNUM
+Game on Stick - GAMSTICK
+Bake Cake & Crack - INNOV103
+Fast forward travelling - FFT
+College And Gift - CAG
+The Return of Palindrome - CODE1603
+Yet Another Tree Problem - YATP
+MathBuzz - MAT
+Chef 2 Chef - C2C
+Substring Query - SUBQUERY
+Chef Chooses a Subset - CO92TREE
+Pilgrimage - KGP14H
+Sequence Summation - GEEK05
+Tree and Extra Edge - TREEDGE
+Glass Measurement - GLASS
+Counting Spaghetti - CDSUMS
+Stringology is Magic - QSTRING
+A game of consecutive piles - IITK1P06
+To add or to multiply game - ADDMULT
+Min Manhattan Distance - MINMANH
+Numbers Game - LIKECS04
+Party Planning - INVITES
+XOR Sum - AMXOR
+Elevator - ELEVATR
+Deja Vu - DEJAVU
+Find The Group - BC205
+Mysterious Sequence - MYSAR
+Convert Strings by Flips - STRFLIP
+Prefix as a Substring - SSTRPREF
+Ripple-Carry Adder - RIPPLE
+Bear and Bribing Tree - BRIBETR
+Rook Path - ROOKPATH
+Logistics Work - LOGISTICS
+Chef and Polygons - CHEFPOLY
+Tasty Dishes - TASTYD
+Pyramid of string - PATTERNG
+Fun Maths - FUNMATHS
+Floor Distribution - FLOORDIS
+Chef and Reordering - SOLDIERS
+Second LIS - SLIS
+Bear and Digit Virus - DIGVIRUS
+CSK Vs RCB - CSKVSRCB
+The First Cube - FCUBE
+Kejriwal ki Jhadu - CRANBROM
+BlindDate Contest - KGP14F
+Coin Boxes - CF226
+Cyclic Prefix - ACM14KP3
+Sort String - STRKSORT
+Counting Terms - TERM
+Queries with Pairs - QPAIRS
+Maximum Frequent Subarray Sum - MFSS
+Proprietary Probabilistic Problem - KALADIN
+Grouping Chefs - GROUPING
+Cheems The Lover - CAKP04
+Permutation Sorting Game - SRTGAME
+Best Buggy Ratings - TMRATING
+Wireless Network - NETWORK
+Robot Movement - KGP14E
+Chef and LCS - CHEFKLCS
+Super Strings - STR
+Bear and Xor of Sums - XORSUMS
+Counter Of Stadium - STACOUNT
+Palindrome Palindrome - PALIPALI
+Odd One Out - COCR107
+Coffee Breaks - COFFEE
+Little Elephant and Swapping - LUCKYSWP
+LCP Maximization - LCPMAX
+Chef and Recipes - RECIPES
+Crease Painting - PAINTING
+Tsetso Subarrays - A1016054
+Mega mu - 1 - MEGAMU1
+Clash of Kings - IITK1P01
+Heavy-light Decompositions - HLDOTS
+Demonetisation - DMNTION
+Line Intersections - CHN15D
+Breaking the Fence - WALL123
+Selection for Training Camps - TRAINING
+Madoka and Ladder Decomposition - LADCOMP
+Magic Hull - HULL
+Exit code - ECODE
+A Gift From Rick - CNTSET
+Flipping the bits - BITMASK5
+Bad Luck - BADLUCK
+Travelling Chef Problem - TCP
+Chef and Tree - LTM40GH
+LIS and LDS - LISLDS
+Walking Path - KAN13B
+Beautiful Subsequence - CHEFHALF
+A Study in Bake Street - ADADET
+Peaceful Calculator - ZENCALC
+Chef and Pair Flips - PAIRFLIP
+Product of Diameters - TREEDIAM
+Make the Matrix Beautiful - MATBEAUT
+Divide or die - DIVIDEN
+I can do this ALL DAY - CR191
+Permutation and GCD Set - PGCDS
+The Counties - COUNTIES
+Odd Binomial Coefficients - ODDBIN
+The Perfect Chocolate Candy - CANDY
+Alternating LG Queries - ALTLG
+Squares Game - SQUAGAME
+Pairs of Pairs - POFP
+How to Choose a Subset - KINT
+Greed Island Bomber - GENTHRU
+Carry Bed - EZRMQ
+Rearrange Ranges - RERNG
+Perfect Imperfections 2 - PERFIMPERF
+Block Drop - BLOCKDRO
+Maximum GCD Subset - TREESUB
+One Change Subsequences - ONECHANGE
+Happy Days - HAPPY
+Family of Recurrences - KAN13D
+Few Different Elements - FEWDIFF
+Mr Swegwan and His GirlFriends - SWEGIRL
+Bear and Haircut - HAIRCUT
+Yet Another Counting Problem - YACP
+Sherlock and Smallest Window - SWINDOW
+Area Sums in Convex Polygons - PLYARSM
+Angry Chef - Crispy Chips - KCHIPS
+Iron Islands - IRONISL
+Kuroni and the Cowsheds - COWSHEDS
+Careful Calculation - CAREFUL
+Palindrome Love - PALINLOVE
+Or Sum - ORSUM
+Minimal Weighted Digit Sum - MINWDSUM
+Little Elephant and Filling - LUCKFILL
+Sum of Primes - CLSUMG
+Lonesome Student - YULESIT
+Permutation Xor - PERMXOR
+First Challenge of Krypton - KRYP1
+Infection - INFECT
+Colorful Chain - COLCHAIN
+Paying optimally - COINCHNG
+Special fibonnacci series - FIBONACCI
+Choosing Cook Off Problems - COOKOFF
+Guess the row - GUESSROW
+Chef and Science - CHITHH
+Maximum Matching - MAXMATCH
+Sereja and Two Arrays - LFEB14A
+Flippable Points - FLIPOINTS
+Ciel and a new island - CIELLAND
+Tanya and Rookie Cats (Hard Version) - DWW19G
+Array and Operations - ARRAYOPS
+The Chosen One - KGCD
+Little Elephant and CNSes - LUCKYCOM
+Greedy Trip - GRTRIP
+Head office building - BUILDING
+Squeeze OR - SQUEEZE
+Non Overlapping Segments - NONOVSEG
+Chefina and Dishes - CHEFPRTY
+Yet Another Mex Problem - YAMP
+Sebi and the black money - SELECT
+Make a String - MKSTR
+Optimal BST Revisited - KOL16L
+Dinner Party Socializing - SOCIAL
+Second Player - SECPLAYER
+Scrupulous Robbery Plan - ROBBERYPLAN
+Painter Problem - PAINTERP
+Cyclic Shifts - MINSHIFT
+Final Battle - CDZ14E
+Sweetest Candy  - SUBMAXA
+Swarm of Polygons - SWARM
+Make It - MKIT
+Min-Max String - MINMXSTR
+Q Trailing Zeros - HW3D
+Subsequence - SUBSQ
+A Special Tree 2 - SPTREE2
+Ciel and Quiz Game - CIELQUIZ
+Rohan And His House - BYTES14
+String and Graphs - STRGRA
+Integer Sequences - SEQUENCE
+An Inveractive Problem - INVERACT
+AND Palindromes - PALAND
+Chef And Life - MDSC
+Chef and Programming Contest by His Friend - CHEFPCHF
+Transfiguring Trees - TRANSFIG
+Save Jewels - SAVJEW
+First non-Palindrome - NONPALIN
+MAX-SEG - MAXSEG
+The Unforgotten Letters - COEX01
+Beauty of Segments - BOFS
+Help with distances - CHKDST
+Mean Mean Medians - MEANMEDI
+Secret Project - GOVT
+Parallel Universe - ENCDEC8
+Y Figures - YFG
+Unique Substring - CLUNQUE
+Black and White Tree - BAWTREE
+Point constraints - NOL_LESS
+Lucky Ali - LCKALI
+And Equals Or - ANDEQOR
+Target Practice - TARPRACT
+Sussy Rooks - SUSROOKS
+Permutation Deletion - PERMDEL
+Indiana Jones and the cryptic code - ECAUG208
+Class Monitor - CLASSMONITOR
+Cab Service - CDIT02
+Sweet Change - SWTCHNG
+Strange Queries - STRQUER
+Seeding The Pattern - SEEDS
+Remove Sub-Array - REMLS1
+Graph on a Plane - GRAPLANE
+Natural Factorial - FACT1K
+Communication Channel - COMMCHA
+The One Where They Get Back Together - S11E00
+Robots Again - ROBAGAIN
+Chef and The Martians - MARS
+Playing With Words - ANASTR
+Mock Turtle - MCKTUR
+Remys last tour - FALLDOWN
+Chef and Magic Numbers  - CHMAGIC
+Longest Arithmetic Progressions - ARITHPR
+Shortest Path - HW3G
+Hackerman - HKRMAN
+The Grand Cook Off - COOKOFF2
+Caesar and Legions - CDX1602
+Xor Travellers - XORTRV
+Finally, Non Ad-Hoc Problem - PERMRANGES
+Help Utkarsh - HLPUTKRSH
+Time of collisions - COLLTIME
+Ciel and Battle Arena - CIELBTL
+H - Solve It Ashi - SOLVEIT
+Prime Cycle - PRIMECYC
+Powers of 2 - PO2
+Permute Digits - PERMDIG
+Oh I Dont Care - OH1DCARE
+Guess My Age - GUESSAGE
+Buying Candies - BUYING
+Trial of Doom - YALOP
+Sherlock and the uncaught Murderer - SHER
+Newspaper Puzzle - PUZZLES
+Nested Rotation - NSTROT
+I Hate Symbo-LIS-m - EXTREME
+An S Ranked Mission - CMX1P05
+Dance Floor Energy - ENERGY
+Triple Sundae - TPT
+Moving between Floors - FLOORSMV
+Rivalry of Code - RIT03
+True Game - CAC2
+City Mapping 2 - UWCOI21E
+Chef and Words - LTM40EF
+Chefland The Great City - FINDWAYS
+Similar Arrays - SIMARRAY
+Wormtongues Mind - MINMAX
+Game of Stones - GOSTONES
+Rook Placement - AMROOK
+Convert Strings by Flips 2 - STRFLIP2
+Shooting Birds - IITK1P08
+Equal Number of Prefix Maximums - EQPRFMAXSPLT
+The Kingdom of Ererraveth - CLERVT
+Solve the Puzzle - CDZ14D
+Two Chefs - TWOCHEFS
+Tree Boundary - PREE01
+Police and Thieves - POLICE
+Infinite Graph - ICL1703
+Divisible Distances - DIVDIST
+Chef becomes Poet - COEX04
+Queue at the Bakery - BAKERY
+Quest for Dragon Balls - SHENQ
+Colorful Triangles - MCO16505
+Tree Labelling - LABEL
+Christmas Gifts of 9 - CHRGIFTS
+Black-and-White Tree - BLWHTREE
+Chef and Array - RECNDARY
+Pawn Chess - PWNCHESS
+Avoid Alternating - AVOIDALT
+Cats of Schrodinger - ACMICL2
+Ice-Cream Party - ICE
+Chef and Strange Graph - GERALD06
+Friends and Candies - FRICAN
+Chess Championship - COMAPR06
+Ciel and Genjiko - CIELGAME
+Bank of Wasseypur - BOWSAFE
+Hill Sequence - HILLARR
+Bracket Removal - BRKRMV
+Po and Cleaning the Museum - POMUSE
+Maximizing Minimum Segment Sum - MXMNSSUM
+ XOR maximum-minimum matrices - MAXXMIN
+Finding The XOR - GTXOR
+Metro - CLMTRO
+Cheapest Travel Plan - CARPD
+n-Bishop problem! - BISHOP
+Lanku and mysterious country - INSQ15_B
+Minimum Spanning Tree - HW3H
+Binary Search - ECPC10E
+Ciel Numbers III - CIELNUM3
+Binary OP - BOP
+Pie Tasting - TASTYPIE
+Dipole Moment - EXUNF
+Chefina and Swaps - CHEFPART
+Chef And Colors - CHEFCOL
+Valid Sub-Sequences - SUBSLS1
+The Reverse Game - REVGAME
+Number Arrangement - NUART
+Delete And Append - DELAPP
+Celestial Voyage - COMAPR07
+Artist Rivalry - AMR14J
+GRAPH - Total paths - PATHSG
+Query Game - QUERGAME
+Icing Crowns - CROWNS
+Phoenix and Salsa Dancers - CDVNT01D
+Binary String Randomizer - BINSTRRAND
+Santa Favorite Numbers - SANTAFAV
+Chef and Programmer - CHEFPROG
+Password - ENCDEC07
+Technical Club and Map - MAPTC
+Kisses 2 - CDVA1610
+Minimize Magic - MINMAGIC
+Max power of sage - MAXPOW
+K0KALARU47 and CP task - K0KALARU47
+I have a BOW and ARROW - CR192
+Nami to the rescue - LUFFY
+LOL QUERIES ON A TREE - LOLTREE
+Harshdeep And Navdeep - HARSTR
+Happy Sequence - COG1806
+Isomorphic Morphism - MORPH21
+LadooLand - INLO36
+Text Editor for Animals - MCO16506
+Good Pairs - HW3C
+Girls And Boys - D2C107
+Sports Day - SPRTD
+QUIZZZ - INLO32
+Schedule Handling - D2C108
+SUM OVER PERMUTATIONS - PERMSUM
+The Strange Ranking of Sport Climbing - CLIMBINGRANK
+Chef And Strings 1  - CHEFSTRI
+Experiment of Chef - MAXPROD
+Overhead Attack - CLATTK
+SAY IT LOUD OUT<h1> - SAYITOUT
+Impressive Queries - PRCS16D
+Save The City - FINDID
+Coding Skills - PREE04
+Word Collection - COLWORD
+Jumble Dumble - CODE1604
+Strange Fibonacci - SPIT05
+Maximum time - MAXTIME
+ADHYAAYA - GCOEN
+Cost Finder - FINDIT
+Crazy Boy - CRANCBOY
+Cute Prime Love - CDFI4
+Chef and the Buckets - CBCKETS
+Binary Matrix - BINMAT
+Master of Tiger Style - ALR20C
+MACE CODE CHALLENGE 4 - MCODE04
+Jumbo Mystery - JUMBSTRY
+Will Chef be Dumped - COEX06
+Chef and Series - CL16BE
+Village Rescue Operation  - BRDG
+RK and his path to Beach - RKABOL03
+Playing With Strings - PLSTR
+Tree Conundrum - TREECON
+MS Sort - MSSORT
+Maximum Zeros - MAXZEROS
+Weird TV remote - IT6
+Making Friends - REL103
+MACE CODE CHALLENGE 5 - MCODE05
+Social Networking Site - COPR16B
+Maiden Date Preparations - COEX03
+The Scientist Ishita - DNA
+Rishab and Discussion - COPR16E
+BASE - CMED205
+Pokemon Go - CDFI3
+Reverse Engineering Problem 4 - REVENG04
+MACE CODE CHALLENGE 3 - MCODE03
+Childish Count - COTH002
+Alpha-Cent Game - CMED207
+The Rise of AI - TRAI6
+Lazy Sagar - LZLYF
+Diwali and Chocolate - DIWCHOCO
+Clark Kent and Superman - SUPERMAN
+playing with P n C - PERMUTTT
+Moon Throwing - CLMNTR
+Batman vs Joker - CDIT04
+Mars Challenge - MISMARS
+Truth and Lie - TRAL
+HELP MAX - SQMA05
+Compacted String - SQMA02
+Prime Distance On Tree - PRIMEDST
+Arithmetic Progressions - COUNTARI
+Chef Thanos Wants Perfect Balance - RGY
+Card Shuffle - CARDSHUF
+Furik and Rubik and Sub Array - FARASA
+Game of Numbers - GNUM
+Dynamic GCD - DGCD
+Two Companies - TWOCOMP
+Jump mission - JUMP
+Random Number Generator - RNG
+Sereja and Equality - SEAEQ
+Course Selection - RIN
+Chef and Same Old Recurrence - JADUGAR
+Query on a tree VI - QTREE6
+Sereja and Arcs - SEAARC
+Counting The Important Pairs - TAPAIR
+Yet Another Tree Problem - TRDST
+Counting D-sets - CNTDSETS
+Very Long Suffix Array - TASUFFIX
+XMAS Factory - SNTFAC3
+Polynomials - POLY
+Easy Queries - DISTNUM2
+Tree - RRTREE
+Different Trips - DIFTRIP
+Rectangle Query - QRECT
+Observing the Tree - QUERY
+Digits Forest - DIGFORST
+Count on a Treap - COT5
+Walks on the binary tree - WALKBT
+Milestones - MSTONES
+Little Elephant and Boxes - LEBOXES
+Dynamic Trees and Queries - ANUDTQ
+Euler Sum - ES
+Sum Of Binomial Coefficent  - TASUMOBC
+Evil Book - EVILBOOK
+Lucy and the Flowers - DECORATE
+DELHI Traffic - INLO33
+Counting on a Tree - TREECNT2
+Sum of distances - SUMDIS
+Easy exam - EASYEX
+Count Special Matrices - SPMATRIX
+Travelling Salesman Again ! - TSPAGAIN
+Fibonacci Numbers on Tree - FIBTREE
+Chef Protection Plan - CPP
+Black and White Tree - GERALD2
+Substrings on a Tree - TSUBSTR
+Vacation - TESTERS
+Petya and Sequence - REALSET
+Sum of Cubes - SUMCUBE
+Irrational Root - APRPS
+String Query - STRQUERY
+Egg-free DAG - EGGFREE
+Little Elephant and Colored Coins - LECOINS
+Chef and Interval Painting - CHEFKNN
+Little Party - LPARTY
+Union on Tree - BTREE
+Push the Flow! - PUSHFLOW
+Fun with AGp - FUNAGP
+A game on a graph - HAMILG
+Team Sigma and Fibonacci - SIGFIB
+Black-white Board Game - BWGAME
+Jam - RRJAM
+Queries on tree again! - QTREE
+The Hungry Bear - HBEAR
+Genetics - GENETICS
+To Queue or not to Queue - TMP01
+Chef and Sad Pairs - SADPAIRS
+Martial Arts - MARTARTS
+Maximum Distance - MXDIST
+Terrible vectors - TERVEC
+Querying on a Grid - QGRID
+Complement Spanning Trees - CSTREE
+Chef and Tree - CHEFTREE
+Simplify the Square Root - SQRGOOD
+Cool Numbers - COOLNUM
+Chef and Same Old Recurrence 2 - JADUGAR2
+3D Queries - MGCH3D
+Needles and Pins - NPIN
+Misha and Permutation - MGCHPERM
+Expected Maximum Matching - MATCH
+String Matching - TASTRMAT
+Sine Partition Function - PARSIN
+Stepping Numbers - STEPNUMS
+Graph Challenge - DAGCH
+Chef and medium problem  - CHEFC
+Chef Cuts Tree - CUTTREE
+Entangled Strings - TANGLED
+Chef and Rainbow Road - RNBWROAD
+Misinterpretation 2 - MISINT2
+Idols and Fans - IDOLS
+Jersey Number - AMR14F
+Tiptoe through the tulips - TULIPS
+Adding Least Common Multiples - LCM
+Will and Closed Set - CHEFCLOS
+Tidying Posters - POSTERS
+Walk on Tree - TREEWALK
+Chef and Uniqueness - UNIQUE
+Mario and Luigi - FURGRAPH
+Billboards - BB
+Graph Counting - GRAPHCT
+Defend the Recipe - ALLPOLY
+Tree Connectivity - TRCNTCT
+Factorization - IITK2P05
+Chef and Tree - CHEFTRE
+Expected Repetitions - EXPREP
+Many Lists - MANYLIST
+Find a special connected block - CONNECT
+Distinct Rows in Submatrices - DISTRING
+Connect Points - CONPOIN
+Find a Subsequence - FINDSEQ
+Shortest Circuit Evaluation - SHORTCIR
+Lucky Days - LUCKYDAY
+Bear and Shuffled Points - GEOCHEAT
+Authentication Failed - AUTHEN
+Persistent oak - OAK
+Good galaxy - GOODGAL
+Faulty System - CNNCT2
+Maximum and Minimum - MXMN
+Something About Divisors - DIVISORS
+Chef and Sums - CHEFSUMS
+Move the Coins 2 - MOVCOIN2
+Minesweeper Reversed - MINESREV
+A Game of Thrones - GTHRONES
+Three-Degree-Bounded Maximum Cost Subtree - DEG3MAXT
+Cucumber Boy and Cucumber Girl - CUCUMBER
+Two Roads - TWOROADS
+Pruning Trees - PRUNING
+Longest Article - LONGART
+Attack of the Clones - CLONES
+Chefbook - CHEFBOOK
+Asteroids - ASTRD
+Picking Fruit for Chefs - PFRUIT
+Rearranging Digits - ARRANGE2
+Short - SHORT
+Queries With Points - QPOINT
+Ski Resort - SKIRES
+Village Road Network - VILLNET
+Tree Balancing - TREEBAL
+Chef and Sort - CHEFONM
+Reduce string - STREDUC
+Weird Sum - WRDSUM
+Selling Tickets - TICKETS
+Strange Queries - STQ
+Baking Cupcakes - MUFFINS
+Zeroes VII - KOL16C
+Queries on Matrix - JIIT
+Counting Hexagons - CNTHEX
+Coprime 6-tuples - TUPLES
+Balancing Network Revisited - BALNET
+Lucky Edge - LKYEDGE
+Product of Digits - DIGITS
+Selecting Edges - SELEDGE
+Path Triples On Tree - TUPLES2
+Power of Santa - SANPOWER
+Team Trees - PLANT
+Good Subsequences - GOODSEGS
+Backup Functions - FUNCTION
+Equal Gifts - EQLGIFTS
+Bear and Cat Trap - BEARTRAP
+Build the Tree - ANUBTT
+Safe Partition - SAFPAR
+Colored Domino Tilings and Cuts - DOMNOCUT
+Panic! at the Disco - PANIC
+Tree Sequences - TSEQ
+Imagine Polygons - IMPO
+Haunted Maze - HAUNTED
+Rubber Band - RUBBER
+Sum Divides Product - PRDIVSUM
+Palindromic Equivalence - PALINDEQ
+Sum on Tree - TSUM2
+Precious Stones  - PSTONES
+Bytelandian Shoppers - BYTESHOP
+Buying Land - BUYLAND
+Chef and Bike - BIKE
+String Power - STRPOW
+Plus Equation - PLUSEQ
+Equivalent Suffix Tries - EST
+Chef and Horcrux - XORTREEH
+S Semi-palindromic - SSPLD
+Generalized Independent Sets - GENIND
+Factorize - FCTR
+Triangles in a Grid - CLTNGL
+Rush Hour - RUSHHOUR
+Company Club Membership - SHDWCMP
+Chef and Lost Story - CHEFLST
+A Leisurely Journey - TRIPWAYS
+Chef and Guard Towers - TRICONT
+Decompose the Tree - TREEPATH
+Sonya and Queries - SONIQUE
+Two Magicians - MAGIC
+Coloring in Hypercube - HPARITY
+Dai Ma Chu Shi - DMCS
+GCD of the Submasks - GCDMASK
+Flight Distance - FLYDIST
+Edgy - EDGY
+Darts - DARTSEGM
+Ciel and password cracking - CIELHACK
+Max Circumference - MAXCIR
+Sereja and Tree - SEATR
+Batman and Tree - BTMNTREE
+Expected Spanning Trees - EXPTREES
+Polygon Chain - POLCHAIN
+Easy Geo xD - GEOXD
+Polygon & Circles - CHEFPC
+Chef and Cut - CHEFKC
+Making Change - CHANGE
+Trip and Palindromes - WAYPA
+Devu, his sister and Rangoli - MINPOLY
+GCD Subsequences - GCDS
+Curious Matrix - CURMAT
+Binary Board - BIBOARD
+Graph on a Table - TBGRAPH
+Even Coefficients - EVENPOLY
+Chef and Vectors - CHEFVEC
+Chef Raffle - RAFFLE
+Quasi-Polynomial Sum - QPOLYSUM
+Lights Out - DORADM01
+Can you do it better - CYDB
+Bears and Bees - BEARS
+Queries on Tree - TRS
+Communicating Servers - SERVERS
+Chef and the Orders - ORDERAAM
+Gaming Inversion - INVERT
+Ciel and Earthquake - CIELQUAK
+Ciel and Ball Guessing Game - CIELBALL
+Chef and Queries on a Tree - CHAQOT
+Sereja and Permutations 3 - SEAPERM3
+Chang and Beautiful Sequences - CHNGSEQ
+Special Agents - AGENTS
+Meeting location - MEETUP
+Mathison and the cubic tree - MATCUT
+Inverse Binomial Coefficient - INVBINCF
+Stair Sequence - STAIRSEQ
+Short II - SHORT2
+Line Line Line Graph - LLLGRAPH
+Optimal use of Nuclear Power plant  - KOL16G
+Substring and five rules - ANUSFR
+Chef at the River - RIVER
+Divisors number divisibility - DIVNODIV
+Chef and Chefcoin - CTREE
+Chef of The Ancient - COTA
+Chef and Polyhedron - CHEFPOL
+Ada Function - ADAFUN
+Chef and The Colored Grid - GRIDCOL
+Counting is life - CNTL
+Brahma and Shiva - SHRINES
+Black Discs - DISCAREA
+Shortest path queries - TACTQUER
+The Reversed World - REVERSED
+Generalized Spanning Trees - GST
+Chef and Big Matrix - CHNBGMT
+ACM vs CSES - GOOGOL06
+Payton numbers - CUSTPRIM
+Day Schedule - BINOMSUM
+The Frictionless Bisected 2-Dimensional World - TFB2DW
+Sines Sum Queries - SINSUMQ
+Harmonious Decorating - HARMONY
+Computer Virus - CMPVIRS
+Men and Horses - KOL16D
+Chef and the Dual Palindromes - DUALPAL
+Renting Spare Oven Time - OVENTIME
+Chefs Game - CHEF_GAM
+Science Fair - SCIENCEF
+Dexter and his Blood Slides - PREE06
+Roads - KOL16I
+Circle Eating - CIRCLEAT
+Lighting the shop - LIGHTING
+Random Grouping - EXPGROUP
+Yet Another Sequence - YASEQ
+Pairwise String Sums - STRSUM
+IPL Tree - IPLTREE
+Hamel Paths - HAMEL
+Get a Clue - CLUE
+Chef attic window - WINDOW
+D-Power Permutations - DPOWPERM
+Lame Queen Game - LAMQUGAM
+Exponentiation Commutativity - EXPCOMM
+Preferred Cooking Schools - CKSCHOOL
+Traffic in Chefland - CHEFTRAF
+Spoiled for Choice - SPLDCHC
+Little Elephant and Sheet - LEPAPER
+Tree Augmentation  - CHN15E
+Bear and Almost Row - ALMROW
+Ciel and Random Walk - CIELWALK
+Hypertrees - HYPER
+CHEF AND CRYPTO - BITCOIN
+Post Office - POST
+Luther and Employees - LEMPLOY
+Coprime Pairs - COPRIME
+Ada Farm - ADAFARM
+Pari and String - ALG1705
+Chef and Triangles - CHEFTRI4
+Opening Pair - AMR14H
+Adjacent leaves - ADJLEAF
+Hikaru, Touya and Waya - HIKARU
+Chef and Edge Flipping - EFLIP
+Product of Digits Again - DIGITS2
+Webs Webs - COTH003
+Ciel and Communications System - CIELWEB
+Frosting Cupcakes - MUFFINS2
+Shubham Loves Maths - ICL1706
+Prefix Suffix LIS Counting - PSLISCNT
+Valentine Day - COMAPR04
+Clash of Clans - CLCO08
+Distinct subsequences - POPCOUNT
+Denethors Decryption of Dequeue permutations - DQPERMS
+Final Showdown - CLSHDN
+Omi and Segment Trees - SEGTREES
+Entangled Circles - CIRCLES
+Help on array - CHKAR
+Jealous Boy - REL205
+MACE CODE CHALLENGE 8 - MCODE08
+Nomad Camp - KGP13J
+Angry Chef - ANGRY_CHEF
+Summing the Intervals - ACMICL5
+Minimize Tree - PRCS16F
+Geometry Class - COPR16F
+Rectangular Samosa - REC_SAM
+Plant The Plants - PLATPLTS
+Lost Algorithm - ECPC10G
+Optimise the toll collection - TOLL
+MACE CODE CHALLENGE 10 - MCODE10
+MACE CODE CHALLENGE 9 - MCODE09
+HEXABOT - ICLFIN06
